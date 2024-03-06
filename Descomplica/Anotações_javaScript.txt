@@ -1,0 +1,16 @@
+Para declara variaeis globais
+var variavel = 'Declarei uma variavel global'
+
+Para declara variaveis que mudam 
+let variavel = 'Variavel que pode ser modificad sempre'
+
+Para declara uma variavel imutavel
+const variavel 'Variavel imutavel'
+
+## OBSERVACAO
+qualquer codigo de javascript que for executa agora aperta F8
+
+
+//Funcoes 
+Declarando funcoes regula
+
